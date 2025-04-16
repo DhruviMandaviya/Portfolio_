@@ -16,8 +16,7 @@ A modern, responsive **portfolio application** built using **Next JavaScript**. 
 
 
 ## 📸 Live Demo:
-
-
+https://dhruvi-mandaviya.netlify.app/
 ---
 
 ## 📦 Installation
