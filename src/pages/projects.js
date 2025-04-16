@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { GithubIcon } from '@/components/Icons';
 import ChatBot from '../../public/images/projects/chatBot.jpg';
 import project1 from '../../public/images/projects/image.jpg';
-import project2 from '../../public/images/projects/project-2.png';
+import project2 from '../../public/images/projects/Project-2.png';
 import portfolio from '../../public/images/projects/portfolio.jpg';
 import quiz from '../../public/images/projects/Quiz.png';
 import FramerImage from '@/components/FramerImage';
