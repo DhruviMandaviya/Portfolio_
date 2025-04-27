@@ -11,7 +11,7 @@ A modern, responsive **portfolio application** built using **Next JavaScript**. 
 - ✅ Projects with images and descriptions
 - ✅ Skillset and experience highlights
 - ✅ Contact section with direct links or form
-- ✅ **Dark mode support**
+- ✅ Dark mode support
 - ✅ Animated transitions for better UX
 
 
