@@ -8,6 +8,8 @@ import ChatBot from '../../public/images/projects/chatBot.jpg';
 import project1 from '../../public/images/projects/image.jpg';
 import project2 from '../../public/images/projects/Project-2.png';
 import portfolio from '../../public/images/projects/portfolio.jpg';
+import OkCupid from '../../public/images/projects/OkCupid.png';
+import ElectricVehicle from '../../public/images/projects/ElectricVehicle.png';
 import quiz from '../../public/images/projects/Quiz.png';
 import FramerImage from '@/components/FramerImage';
 import TransitionEffect from '@/components/TransitionEffect';
@@ -141,6 +143,22 @@ const Projects = () => {
                                 type="Full Stack Web Application"
                                 github="https://github.com/DhruviMandaviya/JobPortal" link="https://github.com/DhruviMandaviya/JobPortal"
                                 summary="A full-stack web application designed to streamline the job search and recruitment process. The platform allows job seekers to browse and apply for jobs, while employers can post vacancies and manage applications." img={project1} />
+                        </div>
+
+                        <div className='col-span-12'>
+                            <FeaturedProjects title="OkCupid Data Visualization – Analyzing Dating Trends & User Preferences"
+                                type="Data Visualization Project"
+                                github="https://public.tableau.com/app/profile/dhruvi.mandaviya/viz/OkCupid_17267606085110/Ok" link="https://public.tableau.com/app/profile/dhruvi.mandaviya/viz/OkCupid_17267606085110/Ok"
+                                summary="A data visualization project focused on analyzing OkCupid user profile data to uncover insights into dating behaviors, preferences, and demographic patterns. The project involved processing and visualizing data to identify key trends in user interactions, lifestyle choices, and compatibility factors." 
+                                img={OkCupid} />
+                        </div>
+                        <div className='col-span-12'>
+                            <FeaturedProjects title="Electric Vehicle Data Analysis – Exploring Trends in EV Adoption"
+                                type="Data Visualization Project"
+                                github="https://public.tableau.com/app/profile/dhruvi.mandaviya/viz/ElectricVehicleDataAnalysis_17254788409350/Dashboard2" 
+                                link="https://public.tableau.com/app/profile/dhruvi.mandaviya/viz/ElectricVehicleDataAnalysis_17254788409350/Dashboard2"
+                                summary="A data analysis project designed to explore and visualize trends in electric vehicle (EV) adoption across regions and vehicle types. The project focused on analyzing key factors such as vehicle make, model, battery range, and geographic distribution to identify emerging market trends and consumer preferences."
+                                img={ElectricVehicle} />
                         </div>
 
                     </div>
