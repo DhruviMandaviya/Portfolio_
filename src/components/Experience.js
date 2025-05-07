@@ -50,19 +50,19 @@ const Experience = () => {
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     <Details position="Mobile & Web Developer"
                         company="Freelance"
-                        time="Jan 2021-present"
+                        time="Jun 2021 - Present"
                         address="Remote"
                         work="Delivered end-to-end web and mobile solutions for clients across industries. Specialized in building scalable applications using Python (Django/Flask) for backend, SQL databases, and React.js/React Native for frontend and mobile interfaces. Developed e-commerce platforms, booking systems, and AI-integrated applications. Handled client communication, requirement analysis, deployment, and maintenance, ensuring timely delivery and high client satisfaction." />
                     <Details position="Mobile App Developer"
                         companyLink="https://www.instanceit.com/"
                         company="Instance It Solution"
-                        time="Jan 2021-Dec 2022"
+                        time="Jan 2020 - Dec 2022"
                         address="India"
                         work="Worked with various clients to design, develop, and deploy native and cross-platform mobile applications across Android, iOS, Flutter, and React Native. Delivered customized solutions, maintained code quality, and implemented user-centric designs. Notable projects include e-commerce apps, booking systems, and social media platforms." />
                     <Details position="Full Stack Developer Intern"
                         company="Wipro"
                         companyLink="https://www.wipro.com/en-IN/overview/"
-                        time="Jan 2020-Dec 2020"
+                        time="Jan 2019 - Dec 2020"
                         address="India"
                         work="Worked on end-to-end development of web applications using Python (Django/Flask) for backend and React.js for frontend. Collaborated with the design team to create responsive, user-friendly interfaces and implemented RESTful APIs to handle dynamic data flow. Managed SQL databases and integrated third-party APIs to enhance functionality. Participated in agile sprints, code reviews, and deployment processes." />
                 </ul>
