@@ -39,23 +39,23 @@ const Skills = () => {
                        <ABC name="css" x="-5vw" y="-7vw" />
                        <ABC name="html" x="-33vw" y="2vw" />
                        <ABC name="javascript" x="-27vw" y="-25vw" />
-                       <ABC name="react" x="23vw" y="9vw" />
-                       <ABC name="next" x="40vw" y="-7vw" />
+                       <ABC name="Dart" x="23vw" y="9vw" />
+                       <ABC name="Swift" x="40vw" y="-7vw" />
                        <ABC name="tailwind css" x="-10vw" y="-25vw" />
                        <ABC name="figma" x="-6vw" y="-16vw" />
                        <ABC name="github" x="34vw" y="2vw" />
                        <ABC name="firebase" x="4vw" y="25vw" />
-                       <ABC name="nodejs" x="-20vw" y="-17vw" />
+                       <ABC name="Android SDK" x="-20vw" y="-17vw" />
                        <ABC name="express" x="13vw" y="0vw" />
                        <ABC name="mongodb" x="-38vw" y="-7vw" />
                        <ABC name="python" x="5vw" y="-12vw" /> 
                        <ABC name="java" x="29vw" y="18vw" />
                        <ABC name="c++" x="-22vw" y="-10vw" />
-                       <ABC name="vueJs" x="-30vw" y="15vw" />
+                       <ABC name="Jetpack Compose" x="-30vw" y="15vw" />
                        <ABC name="SQL" x="-10vw" y="15vw" />
-                       <ABC name="php" x="15vw" y="-20vw" />
+                       <ABC name="LiveData" x="15vw" y="-20vw" />
                        <ABC name="graphql" x="23vw" y="-9vw" />
-                       <ABC name="docker" x="-19vw" y="0vw" />
+                       <ABC name="LiveData" x="-19vw" y="0vw" />
                        <ABC name="kubernetes" x="12vw" y="19vw" />
                        <ABC name="aws" x="-5vw" y="7vw" />
                        <ABC name="azure" x="-25vw" y="7vw" />
@@ -63,12 +63,12 @@ const Skills = () => {
                        <ABC name="iOS" x="27vw" y="-18vw" />
                        <ABC name="React Native" x="37vw" y="-25vw" />
                        <ABC name="PostMan" x="9vw" y="11vw" />
-                       <ABC name="linux" x="-18vw" y="22vw" />
-                       <ABC name="Bootstrap" x="33vw" y="26vw" />
+                       <ABC name="Hilt/Dagger" x="-18vw" y="22vw" />
+                       <ABC name="Git" x="33vw" y="26vw" />
                        <ABC name="Flutter" x="-35vw" y="20vw" />
                        <ABC name="Kotlin" x="-42vw" y="-15vw" />
-                       <ABC name="Django" x="-32vw" y="-16vw" />
-                       <ABC name="Flask" x="39vw" y="-15vw" />
+                       <ABC name="RxJava" x="-32vw" y="-16vw" />
+                       <ABC name="OAuth2" x="39vw" y="-15vw" />
                     </>
                 )}
             </div>
