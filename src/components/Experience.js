@@ -60,9 +60,9 @@ const Experience = () => {
                         address="India"
                         work="Worked with various clients to design, develop, and deploy native and cross-platform mobile applications across Android, iOS, Flutter, and React Native. Delivered customized solutions, maintained code quality, and implemented user-centric designs. Notable projects include e-commerce apps, booking systems, and social media platforms." />
                     <Details position="Full Stack Developer Intern"
-                        company="Wipro"
-                        companyLink="https://www.wipro.com/en-IN/overview/"
-                        time="Jan 2019 - Dec 2020"
+                        company="Instance IT Solutions"
+                        companyLink="https://www.instanceit.com/"
+                        time="Jan 2019 - Dec 2019"
                         address="India"
                         work="Worked on end-to-end development of web applications using Python (Django/Flask) for backend and React.js for frontend. Collaborated with the design team to create responsive, user-friendly interfaces and implemented RESTful APIs to handle dynamic data flow. Managed SQL databases and integrated third-party APIs to enhance functionality. Participated in agile sprints, code reviews, and deployment processes." />
                 </ul>
